@@ -1,0 +1,739 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cc-catering.com" resolutions="1x" timestamp="1606178592756">
+  <folder name="css">
+    <file name="site_global.css" crc="446487157"/>
+    <file name="master_a-master.css" crc="4250313642" ref="index:delightful-desserts:pennsylvania-banquet-hall:appetizer-packages:cocktail-party:platinum-party-plan:hot---cold-hors-d-oeuvres:brooklyn-buffet:menus:gold-party-plan:gala-wedding-station-buffet:breakfast--lunch--brunch:add-to-any-menu:banquet-halls:testimonials:great-outdoors:bronze-party-plan:contact-us:silver-party-plan:a-la-carte-menu:brooklyn-banquet-hall:holiday-specials"/>
+    <file name="nomq_preview_master_a-master.css" crc="488077070" ref="index:delightful-desserts:pennsylvania-banquet-hall:appetizer-packages:cocktail-party:platinum-party-plan:hot---cold-hors-d-oeuvres:brooklyn-buffet:menus:gold-party-plan:gala-wedding-station-buffet:breakfast--lunch--brunch:add-to-any-menu:banquet-halls:testimonials:great-outdoors:bronze-party-plan:contact-us:silver-party-plan:a-la-carte-menu:brooklyn-banquet-hall:holiday-specials"/>
+    <file name="index.css" crc="233539219" ref="index"/>
+    <file name="nomq_index.css" crc="238218807" ref="index"/>
+    <file name="delightful-desserts.css" crc="360130911" ref="delightful-desserts"/>
+    <file name="nomq_delightful-desserts.css" crc="4195353452" ref="delightful-desserts"/>
+    <file name="pennsylvania-banquet-hall.css" crc="4171316339" ref="pennsylvania-banquet-hall"/>
+    <file name="nomq_pennsylvania-banquet-hall.css" crc="4131772798" ref="pennsylvania-banquet-hall"/>
+    <file name="appetizer-packages.css" crc="132314649" ref="appetizer-packages"/>
+    <file name="nomq_appetizer-packages.css" crc="3802548825" ref="appetizer-packages"/>
+    <file name="cocktail-party.css" crc="417881287" ref="cocktail-party"/>
+    <file name="nomq_cocktail-party.css" crc="4124062401" ref="cocktail-party"/>
+    <file name="platinum-party-plan.css" crc="4261076723" ref="platinum-party-plan"/>
+    <file name="nomq_platinum-party-plan.css" crc="57088039" ref="platinum-party-plan"/>
+    <file name="hot---cold-hors-d-oeuvres.css" crc="4188791967" ref="hot---cold-hors-d-oeuvres"/>
+    <file name="nomq_hot---cold-hors-d-oeuvres.css" crc="4265565795" ref="hot---cold-hors-d-oeuvres"/>
+    <file name="brooklyn-buffet.css" crc="4093676397" ref="brooklyn-buffet"/>
+    <file name="nomq_brooklyn-buffet.css" crc="26849207" ref="brooklyn-buffet"/>
+    <file name="menus.css" crc="3954034217" ref="menus"/>
+    <file name="nomq_menus.css" crc="146786870" ref="menus"/>
+    <file name="gold-party-plan.css" crc="530346474" ref="gold-party-plan"/>
+    <file name="nomq_gold-party-plan.css" crc="35835597" ref="gold-party-plan"/>
+    <file name="gala-wedding-station-buffet.css" crc="273549399" ref="gala-wedding-station-buffet"/>
+    <file name="nomq_gala-wedding-station-buffet.css" crc="4039793754" ref="gala-wedding-station-buffet"/>
+    <file name="breakfast--lunch--brunch.css" crc="4057078642" ref="breakfast--lunch--brunch"/>
+    <file name="nomq_breakfast--lunch--brunch.css" crc="137358080" ref="breakfast--lunch--brunch"/>
+    <file name="add-to-any-menu.css" crc="4128077952" ref="add-to-any-menu"/>
+    <file name="nomq_add-to-any-menu.css" crc="3893656944" ref="add-to-any-menu"/>
+    <file name="banquet-halls.css" crc="62491383" ref="banquet-halls"/>
+    <file name="nomq_banquet-halls.css" crc="456739539" ref="banquet-halls"/>
+    <file name="testimonials.css" crc="451704260" ref="testimonials"/>
+    <file name="nomq_testimonials.css" crc="228363971" ref="testimonials"/>
+    <file name="great-outdoors.css" crc="4088491827" ref="great-outdoors"/>
+    <file name="nomq_great-outdoors.css" crc="336710819" ref="great-outdoors"/>
+    <file name="bronze-party-plan.css" crc="4101578429" ref="bronze-party-plan"/>
+    <file name="nomq_bronze-party-plan.css" crc="3959653087" ref="bronze-party-plan"/>
+    <file name="contact-us.css" crc="3967308045" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="116632791" ref="contact-us"/>
+    <file name="silver-party-plan.css" crc="489912414" ref="silver-party-plan"/>
+    <file name="nomq_silver-party-plan.css" crc="3794659240" ref="silver-party-plan"/>
+    <file name="a-la-carte-menu.css" crc="4104717862" ref="a-la-carte-menu"/>
+    <file name="nomq_a-la-carte-menu.css" crc="3942004540" ref="a-la-carte-menu"/>
+    <file name="brooklyn-banquet-hall.css" crc="4106547667" ref="brooklyn-banquet-hall"/>
+    <file name="nomq_brooklyn-banquet-hall.css" crc="3797184782" ref="brooklyn-banquet-hall"/>
+    <file name="holiday-specials.css" crc="230454185" ref="holiday-specials"/>
+    <file name="nomq_holiday-specials.css" crc="389844495" ref="holiday-specials"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="museutils.js" crc="3939489907" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="whatinput.js" crc="86476730" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="webpro.js" crc="3856315280" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="require.js" crc="4177726516" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="form_check.php" crc="4050423521" ref="contact-us"/>
+    <file name="form_process.php" crc="3946589668" ref="contact-us"/>
+    <file name="form-u9769.php" crc="4161734512" ref="contact-us"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="brooklyn-banquet-hall:pennsylvania-banquet-hall"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="brooklyn-banquet-hall:pennsylvania-banquet-hall"/>
+    <file name="touchswipe.js" crc="3888935200" ref="brooklyn-banquet-hall:pennsylvania-banquet-hall"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet"/>
+    <file name="cc-logo-white-2.svg" crc="4178084056" seo="true" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet">
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="breakfast--lunch--brunch" alt=""/>
+      <caption webpage="breakfast--lunch--brunch" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="add-to-any-menu" alt=""/>
+      <caption webpage="add-to-any-menu" alt=""/>
+      <caption webpage="holiday-specials" alt=""/>
+      <caption webpage="holiday-specials" alt=""/>
+      <caption webpage="gold-party-plan" alt=""/>
+      <caption webpage="gold-party-plan" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="cocktail-party" alt=""/>
+      <caption webpage="cocktail-party" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="platinum-party-plan" alt=""/>
+      <caption webpage="platinum-party-plan" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="appetizer-packages" alt=""/>
+      <caption webpage="appetizer-packages" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+    </file>
+    <file name="cc logo white 2_poster_.png" crc="44992519" ref="index"/>
+    <file name="c_c_final_old_store_photo.jpg" crc="4068184949" seo="true" ref="index">
+      <caption webpage="index" alt="Fine Food and Catering since 1927. The Cutaneo's at their Italian-American grocery store in Sheepshead Bay"/>
+    </file>
+    <file name="logo_facebook.svg" crc="4135430698" seo="true" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet">
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="breakfast--lunch--brunch" alt=""/>
+      <caption webpage="breakfast--lunch--brunch" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="add-to-any-menu" alt=""/>
+      <caption webpage="add-to-any-menu" alt=""/>
+      <caption webpage="holiday-specials" alt=""/>
+      <caption webpage="holiday-specials" alt=""/>
+      <caption webpage="gold-party-plan" alt=""/>
+      <caption webpage="gold-party-plan" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="cocktail-party" alt=""/>
+      <caption webpage="cocktail-party" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="platinum-party-plan" alt=""/>
+      <caption webpage="platinum-party-plan" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="appetizer-packages" alt=""/>
+      <caption webpage="appetizer-packages" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+    </file>
+    <file name="logo_facebook_poster_.png" crc="453792815" ref="index"/>
+    <file name="logo_twitter.svg" crc="3860342355" seo="true" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet">
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="breakfast--lunch--brunch" alt=""/>
+      <caption webpage="breakfast--lunch--brunch" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="add-to-any-menu" alt=""/>
+      <caption webpage="add-to-any-menu" alt=""/>
+      <caption webpage="holiday-specials" alt=""/>
+      <caption webpage="holiday-specials" alt=""/>
+      <caption webpage="gold-party-plan" alt=""/>
+      <caption webpage="gold-party-plan" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="cocktail-party" alt=""/>
+      <caption webpage="cocktail-party" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="platinum-party-plan" alt=""/>
+      <caption webpage="platinum-party-plan" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="appetizer-packages" alt=""/>
+      <caption webpage="appetizer-packages" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+    </file>
+    <file name="logo_twitter_poster_.png" crc="4056626944" ref="index"/>
+    <file name="instagram-logo-white.png" crc="3898758701" seo="true" ref="index:banquet-halls:menus:testimonials:contact-us:brooklyn-banquet-hall:pennsylvania-banquet-hall:platinum-party-plan:gold-party-plan:silver-party-plan:bronze-party-plan:a-la-carte-menu:hot---cold-hors-d-oeuvres:cocktail-party:brooklyn-buffet:breakfast--lunch--brunch:great-outdoors:delightful-desserts:holiday-specials:appetizer-packages:add-to-any-menu:gala-wedding-station-buffet">
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="breakfast--lunch--brunch" alt=""/>
+      <caption webpage="breakfast--lunch--brunch" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="add-to-any-menu" alt=""/>
+      <caption webpage="add-to-any-menu" alt=""/>
+      <caption webpage="holiday-specials" alt=""/>
+      <caption webpage="holiday-specials" alt=""/>
+      <caption webpage="gold-party-plan" alt=""/>
+      <caption webpage="gold-party-plan" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="a-la-carte-menu" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="delightful-desserts" alt=""/>
+      <caption webpage="cocktail-party" alt=""/>
+      <caption webpage="cocktail-party" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="platinum-party-plan" alt=""/>
+      <caption webpage="platinum-party-plan" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="appetizer-packages" alt=""/>
+      <caption webpage="appetizer-packages" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+    </file>
+    <file name="ico_ham.svg" crc="3881745078" ref="index:a-la-carte-menu:hot---cold-hors-d-oeuvres"/>
+    <file name="ico_ham_poster_u36413.png" crc="11301426" ref="index:a-la-carte-menu:hot---cold-hors-d-oeuvres"/>
+    <file name="c_c_final_old_store_photo302x375.jpg" crc="246969984" seo="true" ref="index">
+      <caption webpage="index" alt="Fine Food and Catering since 1927. The Cutaneo's at their Italian-American grocery store in Sheepshead Bay"/>
+    </file>
+    <file name="img_6384-crop-u9296.jpg" crc="345421533" seo="true" ref="banquet-halls">
+      <caption webpage="banquet-halls" alt=""/>
+    </file>
+    <file name="view-banquet-hall.svg" crc="74404969" seo="true" ref="banquet-halls">
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="banquet-halls" alt=""/>
+    </file>
+    <file name="view banquet hall_poster_.png" crc="180678795" ref="banquet-halls"/>
+    <file name="banquet_hall_i.jpg" crc="3779327541" seo="true" ref="banquet-halls">
+      <caption webpage="banquet-halls" alt=""/>
+      <caption webpage="banquet-halls" alt=""/>
+    </file>
+    <file name="img_6384-crop-u92962.jpg" crc="3909707303" seo="true" ref="banquet-halls">
+      <caption webpage="banquet-halls" alt=""/>
+    </file>
+    <file name="platinum party plan262x197.jpg" crc="4236762951" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="view-menus.svg" crc="278888735" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="view menus_poster_.png" crc="430628090" ref="menus"/>
+    <file name="adobestock_53382778-crop-u38225.jpg" crc="41435209" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="new sign.png" crc="181771916" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="silver icon262x197.jpg" crc="60129335" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="gold icon262x197.jpg" crc="180737612" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="a la carte262x197.jpg" crc="183057469" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="bronze icon262x197.jpg" crc="71232644" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="cocktail party262x197.jpg" crc="4161718276" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="hors2262x197.jpg" crc="3950075181" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="brooklyn buffet-crop-u25158.jpg" crc="3861841078" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="breakfastlunchbrunch262x197.jpg" crc="3771410082" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="desserts262x197.jpg" crc="4265803304" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="great outdoors262x197.jpg" crc="4008633330" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="holiday specials262x197.jpg" crc="336709486" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="adobestock_53382778-crop-u38464.jpg" crc="3992258462" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="gold icon209x157.jpg" crc="54149757" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="bronze icon209x157.jpg" crc="34222068" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="hors2209x157.jpg" crc="188823565" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="brooklyn buffet-crop-u25774.jpg" crc="99994089" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="great outdoors209x157.jpg" crc="3989845992" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="holiday specials209x157.jpg" crc="4051528522" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="platinum party plan209x157.jpg" crc="3846156957" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="silver icon209x157.jpg" crc="534484678" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="a la carte209x157.jpg" crc="4009121749" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="cocktail party209x157.jpg" crc="4087338343" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="breakfastlunchbrunch209x157.jpg" crc="471856452" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="desserts209x157.jpg" crc="4030270897" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="add to any menu.jpg" crc="3970060429" seo="true" ref="menus">
+      <caption webpage="menus" alt=""/>
+    </file>
+    <file name="side view of catering.jpg" crc="506358377" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="side view of catering226x150.jpg" crc="4170632026" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="img_2826-crop-u8504.jpg" crc="4165538400" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2861-crop-u14788.jpg" crc="156611499" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="banquethall1-crop-u16384.jpg" crc="4035611950" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_634176x57.jpg" crc="518679089" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2827-crop-u14747.jpg" crc="3806073041" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2841-crop-u14828.jpg" crc="4092210922" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="banquethall275x57.jpg" crc="3835751127" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_634275x57.jpg" crc="4226495028" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2826-crop-u8490.jpg" crc="3850713603" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2827-crop-u14738.jpg" crc="523014860" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2861-crop-u14778.jpg" crc="3936561544" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2841-crop-u14818.jpg" crc="4137733401" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="banquethall1-crop-u16374.jpg" crc="508054482" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="banquethall2.jpg" crc="186918997" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6341.jpg" crc="92468065" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6342.jpg" crc="3950559571" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="brooklyn-banquet-hall:pennsylvania-banquet-hall"/>
+    <file name="img_2826-crop-u8621.jpg" crc="109170613" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2827-crop-u14919.jpg" crc="305039010" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2861-crop-u14955.jpg" crc="3881975634" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_2841-crop-u14992.jpg" crc="78765333" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="banquethall1-crop-u16449.jpg" crc="4139322055" seo="true" ref="brooklyn-banquet-hall">
+      <caption webpage="brooklyn-banquet-hall" alt=""/>
+    </file>
+    <file name="img_631475x57.jpg" crc="402426447" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_637575x57.jpg" crc="3963134607" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_637775x57.jpg" crc="278860639" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_638675x57.jpg" crc="189422538" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_637675x57.jpg" crc="3895460382" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_638975x57.jpg" crc="320529812" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_631575x57.jpg" crc="482794867" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_637075x57.jpg" crc="3804867479" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_636675x57.jpg" crc="394322652" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_638075x57.jpg" crc="113745637" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_638475x57.jpg" crc="4028663746" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_632575x57.jpg" crc="443301103" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_638375x57.jpg" crc="256417106" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6314.jpg" crc="3883071243" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6370.jpg" crc="3866892403" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6375.jpg" crc="3771948664" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6366.jpg" crc="3933844725" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6377.jpg" crc="4209347151" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6380.jpg" crc="3858646716" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6386.jpg" crc="4215780870" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6384.jpg" crc="323899244" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6376.jpg" crc="5772247" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6325.jpg" crc="4131773928" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6389.jpg" crc="3893192569" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6383.jpg" crc="4286647113" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="img_6315.jpg" crc="294347500" seo="true" ref="pennsylvania-banquet-hall">
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+      <caption webpage="pennsylvania-banquet-hall" alt=""/>
+    </file>
+    <file name="c_c_wedding_cake.jpg" crc="3940179524" seo="true" ref="platinum-party-plan">
+      <caption webpage="platinum-party-plan" alt=""/>
+    </file>
+    <file name="c_c_wedding_cake201x312.jpg" crc="293174490" seo="true" ref="platinum-party-plan">
+      <caption webpage="platinum-party-plan" alt=""/>
+    </file>
+    <file name="silver party plan.jpg" crc="404700486" seo="true" ref="silver-party-plan">
+      <caption webpage="silver-party-plan" alt=""/>
+      <caption webpage="silver-party-plan" alt=""/>
+    </file>
+    <file name="bronze party plan.jpg" crc="3784887119" seo="true" ref="bronze-party-plan">
+      <caption webpage="bronze-party-plan" alt=""/>
+      <caption webpage="bronze-party-plan" alt=""/>
+    </file>
+    <file name="shrimp ii414x276.jpg" crc="4063457972" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="crudites414x276.jpg" crc="341369845" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="shrimp ii345x230.jpg" crc="190146665" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="crudites345x230.jpg" crc="358184179" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="shrimp ii297x198.jpg" crc="3788995362" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="crudites297x198.jpg" crc="4187087341" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="shrimp ii233x156.jpg" crc="432010217" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="crudites233x156.jpg" crc="444297408" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="shrimp ii342x228.jpg" crc="126604141" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="crudites342x228.jpg" crc="24360964" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="shrimp ii257x171.jpg" crc="415784657" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="crudites257x171.jpg" crc="3978403334" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="shrimp ii214x143.jpg" crc="471276024" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="crudites214x143.jpg" crc="86410968" seo="true" ref="hot---cold-hors-d-oeuvres">
+      <caption webpage="hot---cold-hors-d-oeuvres" alt=""/>
+    </file>
+    <file name="silvertray.jpg" crc="243675658" seo="true" ref="brooklyn-buffet">
+      <caption webpage="brooklyn-buffet" alt=""/>
+      <caption webpage="brooklyn-buffet" alt=""/>
+    </file>
+    <file name="bbq1.jpg" crc="3811788297" seo="true" ref="great-outdoors">
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+    </file>
+    <file name="bbq2.jpg" crc="4251078664" seo="true" ref="great-outdoors">
+      <caption webpage="great-outdoors" alt=""/>
+      <caption webpage="great-outdoors" alt=""/>
+    </file>
+    <file name="cakes414x276.jpg" crc="4196449117" seo="true" ref="delightful-desserts">
+      <caption webpage="delightful-desserts" alt=""/>
+    </file>
+    <file name="fruit salad414x276.jpg" crc="3913863230" seo="true" ref="delightful-desserts">
+      <caption webpage="delightful-desserts" alt=""/>
+    </file>
+    <file name="cakes259x173.jpg" crc="60218999" seo="true" ref="delightful-desserts">
+      <caption webpage="delightful-desserts" alt=""/>
+    </file>
+    <file name="fruit salad259x173.jpg" crc="410750847" seo="true" ref="delightful-desserts">
+      <caption webpage="delightful-desserts" alt=""/>
+    </file>
+    <file name="cakes343x229.jpg" crc="258370166" seo="true" ref="delightful-desserts">
+      <caption webpage="delightful-desserts" alt=""/>
+    </file>
+    <file name="fruit salad342x228.jpg" crc="114347132" seo="true" ref="delightful-desserts">
+      <caption webpage="delightful-desserts" alt=""/>
+    </file>
+    <file name="crudites362x241.jpg" crc="168080354" seo="true" ref="appetizer-packages">
+      <caption webpage="appetizer-packages" alt=""/>
+    </file>
+    <file name="crudites341x228.jpg" crc="89079399" seo="true" ref="appetizer-packages">
+      <caption webpage="appetizer-packages" alt=""/>
+    </file>
+    <file name="gala wedding mini hot dogs262x175.jpg" crc="4184564946" seo="true" ref="gala-wedding-station-buffet">
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+    </file>
+    <file name="adobestock_208733207283x181.jpg" crc="3997542812" seo="true" ref="gala-wedding-station-buffet">
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+    </file>
+    <file name="adobestock_171919497282x188.jpg" crc="137730310" seo="true" ref="gala-wedding-station-buffet">
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+    </file>
+    <file name="gala wedding cake 2263x359.jpg" crc="446878705" seo="true" ref="gala-wedding-station-buffet">
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+    </file>
+    <file name="gala wedding mini hot dogs213x142.jpg" crc="33568802" seo="true" ref="gala-wedding-station-buffet">
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+    </file>
+    <file name="adobestock_208733207213x136.jpg" crc="4065711553" seo="true" ref="gala-wedding-station-buffet">
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+    </file>
+    <file name="adobestock_171919497214x143.jpg" crc="373062158" seo="true" ref="gala-wedding-station-buffet">
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+    </file>
+    <file name="gala wedding cake 2214x292.jpg" crc="251068181" seo="true" ref="gala-wedding-station-buffet">
+      <caption webpage="gala-wedding-station-buffet" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3832897676" seo="true" mt="1604607479188" redirect="true"/>
+  <file name="banquet-halls.html" crc="279718567" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="menus.html" crc="3959088424" seo="true" mt="1563204789599" redirect="true"/>
+  <file name="testimonials.html" crc="143326270" seo="true" mt="1604002337404" redirect="true"/>
+  <file name="contact-us.html" crc="3996112347" seo="true" mt="1604002337254" redirect="true"/>
+  <file name="brooklyn-banquet-hall.html" crc="4158747011" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="pennsylvania-banquet-hall.html" crc="4134648597" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="platinum-party-plan.html" crc="124719277" seo="true" mt="1562704935338" redirect="true"/>
+  <file name="gold-party-plan.html" crc="284709105" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="silver-party-plan.html" crc="4027424252" seo="true" mt="1562614304373" redirect="true"/>
+  <file name="bronze-party-plan.html" crc="4030740856" seo="true" mt="1562614303404" redirect="true"/>
+  <file name="a-la-carte-menu.html" crc="3958024492" seo="true" mt="1569343568938" redirect="true"/>
+  <file name="hot---cold-hors-d-oeuvres.html" crc="4290647811" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="cocktail-party.html" crc="3898808301" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="brooklyn-buffet.html" crc="390212562" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="breakfast--lunch--brunch.html" crc="20504713" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="great-outdoors.html" crc="4289644145" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="delightful-desserts.html" crc="140680232" seo="true" mt="1562614305968" redirect="true"/>
+  <file name="holiday-specials.html" crc="422792011" seo="true" mt="1604004306583" redirect="true"/>
+  <file name="appetizer-packages.html" crc="3888108753" seo="true" mt="1562000998971" redirect="true"/>
+  <file name="add-to-any-menu.html" crc="355379229" seo="true" mt="1562813230363" redirect="true"/>
+  <file name="gala-wedding-station-buffet.html" crc="3802932585" seo="true" mt="1604002337572" redirect="true"/>
+</manifest>
